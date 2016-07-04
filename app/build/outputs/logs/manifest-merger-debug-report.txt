@@ -1,0 +1,117 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/hernanrojas/StudioProjects/censorMovil1/app/src/main/AndroidManifest.xml:1:1-47:12
+	xmlns:android
+		ADDED from /Users/hernanrojas/StudioProjects/censorMovil1/app/src/main/AndroidManifest.xml:1:11-69
+	package
+		ADDED from /Users/hernanrojas/StudioProjects/censorMovil1/app/src/main/AndroidManifest.xml:2:5-48
+		INJECTED from /Users/hernanrojas/StudioProjects/censorMovil1/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/hernanrojas/StudioProjects/censorMovil1/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/hernanrojas/StudioProjects/censorMovil1/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/hernanrojas/StudioProjects/censorMovil1/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/hernanrojas/StudioProjects/censorMovil1/app/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /Users/hernanrojas/StudioProjects/censorMovil1/app/src/main/AndroidManifest.xml:3:5-28
+		INJECTED from /Users/hernanrojas/StudioProjects/censorMovil1/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/hernanrojas/StudioProjects/censorMovil1/app/src/main/AndroidManifest.xml
+	android:installLocation
+		ADDED from /Users/hernanrojas/StudioProjects/censorMovil1/app/src/main/AndroidManifest.xml:4:29-69
+uses-sdk
+ADDED from /Users/hernanrojas/StudioProjects/censorMovil1/app/src/main/AndroidManifest.xml:6:5-8:41
+MERGED from [com.actionbarsherlock:actionbarsherlock:4.4.0] /Users/hernanrojas/StudioProjects/censorMovil1/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/AndroidManifest.xml:3:3-70
+	android:targetSdkVersion
+		ADDED from /Users/hernanrojas/StudioProjects/censorMovil1/app/src/main/AndroidManifest.xml:8:9-38
+		INJECTED from /Users/hernanrojas/StudioProjects/censorMovil1/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/hernanrojas/StudioProjects/censorMovil1/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/hernanrojas/StudioProjects/censorMovil1/app/src/main/AndroidManifest.xml:7:9-34
+		INJECTED from /Users/hernanrojas/StudioProjects/censorMovil1/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/hernanrojas/StudioProjects/censorMovil1/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/hernanrojas/StudioProjects/censorMovil1/app/src/main/AndroidManifest.xml:10:5-66
+	android:name
+		ADDED from /Users/hernanrojas/StudioProjects/censorMovil1/app/src/main/AndroidManifest.xml:10:22-64
+uses-permission#android.permission.VIBRATE
+ADDED from /Users/hernanrojas/StudioProjects/censorMovil1/app/src/main/AndroidManifest.xml:11:2-62
+	android:name
+		ADDED from /Users/hernanrojas/StudioProjects/censorMovil1/app/src/main/AndroidManifest.xml:11:19-60
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/hernanrojas/StudioProjects/censorMovil1/app/src/main/AndroidManifest.xml:12:2-75
+	android:name
+		ADDED from /Users/hernanrojas/StudioProjects/censorMovil1/app/src/main/AndroidManifest.xml:12:19-73
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /Users/hernanrojas/StudioProjects/censorMovil1/app/src/main/AndroidManifest.xml:13:2-65
+	android:name
+		ADDED from /Users/hernanrojas/StudioProjects/censorMovil1/app/src/main/AndroidManifest.xml:13:19-62
+application
+ADDED from /Users/hernanrojas/StudioProjects/censorMovil1/app/src/main/AndroidManifest.xml:14:5-45:19
+MERGED from [com.actionbarsherlock:actionbarsherlock:4.4.0] /Users/hernanrojas/StudioProjects/censorMovil1/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/AndroidManifest.xml:4:3-17
+	android:label
+		ADDED from /Users/hernanrojas/StudioProjects/censorMovil1/app/src/main/AndroidManifest.xml:16:9-41
+	android:icon
+		ADDED from /Users/hernanrojas/StudioProjects/censorMovil1/app/src/main/AndroidManifest.xml:15:9-38
+	android:theme
+		ADDED from /Users/hernanrojas/StudioProjects/censorMovil1/app/src/main/AndroidManifest.xml:17:9-66
+activity#co.campeoncloudcomputing.santomas.SplashActivity
+ADDED from /Users/hernanrojas/StudioProjects/censorMovil1/app/src/main/AndroidManifest.xml:18:9-29:20
+	android:screenOrientation
+		ADDED from /Users/hernanrojas/StudioProjects/censorMovil1/app/src/main/AndroidManifest.xml:22:13-49
+	android:label
+		ADDED from /Users/hernanrojas/StudioProjects/censorMovil1/app/src/main/AndroidManifest.xml:21:13-56
+	android:theme
+		ADDED from /Users/hernanrojas/StudioProjects/censorMovil1/app/src/main/AndroidManifest.xml:20:13-81
+	android:name
+		ADDED from /Users/hernanrojas/StudioProjects/censorMovil1/app/src/main/AndroidManifest.xml:19:13-42
+	android:launchMode
+		ADDED from /Users/hernanrojas/StudioProjects/censorMovil1/app/src/main/AndroidManifest.xml:23:13-44
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/hernanrojas/StudioProjects/censorMovil1/app/src/main/AndroidManifest.xml:24:13-28:29
+action#android.intent.action.MAIN
+ADDED from /Users/hernanrojas/StudioProjects/censorMovil1/app/src/main/AndroidManifest.xml:25:17-69
+	android:name
+		ADDED from /Users/hernanrojas/StudioProjects/censorMovil1/app/src/main/AndroidManifest.xml:25:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/hernanrojas/StudioProjects/censorMovil1/app/src/main/AndroidManifest.xml:27:17-77
+	android:name
+		ADDED from /Users/hernanrojas/StudioProjects/censorMovil1/app/src/main/AndroidManifest.xml:27:27-74
+activity#co.campeoncloudcomputing.santomas.MainActivity
+ADDED from /Users/hernanrojas/StudioProjects/censorMovil1/app/src/main/AndroidManifest.xml:30:9-35:20
+	android:screenOrientation
+		ADDED from /Users/hernanrojas/StudioProjects/censorMovil1/app/src/main/AndroidManifest.xml:33:13-49
+	android:label
+		ADDED from /Users/hernanrojas/StudioProjects/censorMovil1/app/src/main/AndroidManifest.xml:32:13-56
+	android:name
+		ADDED from /Users/hernanrojas/StudioProjects/censorMovil1/app/src/main/AndroidManifest.xml:31:13-41
+	android:launchMode
+		ADDED from /Users/hernanrojas/StudioProjects/censorMovil1/app/src/main/AndroidManifest.xml:34:13-44
+activity#co.campeoncloudcomputing.santomas.LoginActivity
+ADDED from /Users/hernanrojas/StudioProjects/censorMovil1/app/src/main/AndroidManifest.xml:36:9-40:20
+	android:screenOrientation
+		ADDED from /Users/hernanrojas/StudioProjects/censorMovil1/app/src/main/AndroidManifest.xml:39:13-49
+	android:label
+		ADDED from /Users/hernanrojas/StudioProjects/censorMovil1/app/src/main/AndroidManifest.xml:38:13-56
+	android:name
+		ADDED from /Users/hernanrojas/StudioProjects/censorMovil1/app/src/main/AndroidManifest.xml:37:13-42
+activity#co.campeoncloudcomputing.santomas.ZoomActivity
+ADDED from /Users/hernanrojas/StudioProjects/censorMovil1/app/src/main/AndroidManifest.xml:41:9-95
+	android:screenOrientation
+		ADDED from /Users/hernanrojas/StudioProjects/censorMovil1/app/src/main/AndroidManifest.xml:41:47-83
+	android:name
+		ADDED from /Users/hernanrojas/StudioProjects/censorMovil1/app/src/main/AndroidManifest.xml:41:19-46
+activity#co.campeoncloudcomputing.santomas.ChatActivity
+ADDED from /Users/hernanrojas/StudioProjects/censorMovil1/app/src/main/AndroidManifest.xml:42:9-95
+	android:screenOrientation
+		ADDED from /Users/hernanrojas/StudioProjects/censorMovil1/app/src/main/AndroidManifest.xml:42:47-83
+	android:name
+		ADDED from /Users/hernanrojas/StudioProjects/censorMovil1/app/src/main/AndroidManifest.xml:42:19-46
+service#co.campeoncloudcomputing.santomas.services.RefreshService
+ADDED from /Users/hernanrojas/StudioProjects/censorMovil1/app/src/main/AndroidManifest.xml:43:9-84
+	android:exported
+		ADDED from /Users/hernanrojas/StudioProjects/censorMovil1/app/src/main/AndroidManifest.xml:43:58-82
+	android:name
+		ADDED from /Users/hernanrojas/StudioProjects/censorMovil1/app/src/main/AndroidManifest.xml:43:18-57
+receiver#co.campeoncloudcomputing.santomas.broadcast.AlarmReceiver
+ADDED from /Users/hernanrojas/StudioProjects/censorMovil1/app/src/main/AndroidManifest.xml:44:9-61
+	android:name
+		ADDED from /Users/hernanrojas/StudioProjects/censorMovil1/app/src/main/AndroidManifest.xml:44:19-58

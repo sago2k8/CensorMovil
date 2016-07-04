@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/hernanrojas/StudioProjects/censorMovil1/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="7643c14670788f60b8f99d05df519ed7ac27e197">
+        <dex dex="/Users/hernanrojas/StudioProjects/censorMovil1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_c3d5c8e1b571566d7fb5894018cea3a4006b04db/classes.dex" />
+    </item>
+    <item
+        jar="/Users/hernanrojas/StudioProjects/censorMovil1/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="af64527b748983a75de9c0756e9768b56b240a49">
+        <dex dex="/Users/hernanrojas/StudioProjects/censorMovil1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.actionbarsherlock-actionbarsherlock-4.4.0_5bc34d137c72464f401535c0ef6cb4f4864bf795/classes.dex" />
+    </item>
+    <item
+        jar="/Users/hernanrojas/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="/Users/hernanrojas/StudioProjects/censorMovil1/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-18.0.0_ce8f90ed1c198a7e82b5e029fb4d0cb8eb27beca/classes.dex" />
+    </item>
+    <item
+        jar="/Users/hernanrojas/StudioProjects/censorMovil1/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="eba59e24245e5d52b67ed82c68e8cb1cd7434736">
+        <dex dex="/Users/hernanrojas/StudioProjects/censorMovil1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_71c0b94f7f6e09be08f62fd2c4763aee3c1fdd25/classes.dex" />
+    </item>
+
+</items>

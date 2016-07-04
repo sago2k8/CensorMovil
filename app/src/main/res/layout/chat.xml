@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="3"
+        android:fillViewport="true" >
+
+        <TextView
+            android:id="@+id/chat_txt_historial"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="3"
+            android:background="#DDDDDD"
+            android:gravity="bottom"
+            android:text="TextView" />
+
+    </ScrollView>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:paddingBottom="8dp"
+        android:paddingTop="8dp" >
+
+        <ImageButton
+            android:id="@+id/chat_btn_voice"
+            android:layout_width="40dp"
+            android:layout_height="35dp"
+            android:layout_weight="1"
+            android:background="#FFFFFF"
+            android:scaleType="fitXY"
+            android:src="@drawable/voice" />
+
+        <EditText
+            android:id="@+id/chat_txt_enviar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:layout_weight="20"
+            android:ems="10"
+            android:hint="Escribe tu mensaje"
+            android:textSize="14dp" >
+
+            <requestFocus />
+        </EditText>
+
+        <ImageButton
+            android:id="@+id/chat_btn_enviar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_weight="1"
+            android:background="#FFFFFF"
+            android:src="@drawable/ic_action_send_now"
+            android:text="Ok" />
+
+    </LinearLayout>
+
+</LinearLayout>
